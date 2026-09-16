@@ -1,5 +1,27 @@
 # 💫 About Me:
-Software Engineer with 3 years at TCS building scalable full-stack applications using Java, Spring Boot, Angular, and PostgreSQL. I've developed 15+ REST APIs, improved application performance by 40%, and automated CI/CD pipelines with Jenkins — cutting deployment time by 50%.
+### Hi, I'm Swapnil 👋
+
+Software Engineer with 3 years of experience at Tata Consultancy Services (TCS), building scalable full-stack enterprise applications.
+
+🔧 **Tech Stack**
+- **Backend:** Java, Spring Boot, Spring Security, Microservices, REST APIs, Hibernate/JPA
+- **Frontend:** Angular, TypeScript
+- **Database:** PostgreSQL, MySQL
+- **Cloud & DevOps:** Microsoft Azure, AWS, Docker, Kubernetes, Jenkins, CI/CD
+
+📜 **Certifications**
+- Microsoft Certified: Azure Administrator Associate (AZ-104)
+- AWS Certified Solutions Architect – Associate
+- Claude Certified Architect – Foundations
+
+🚀 **What I've built**
+- Developed 15+ RESTful APIs, improving performance by 40%
+- Automated CI/CD pipelines, cutting deployment time by 50%
+- Optimized PostgreSQL queries, reducing data retrieval time by 30%
+
+🤖 Currently exploring Generative AI application development — integrating LLM APIs (Claude, OpenAI) into full-stack projects.
+
+📫 Reach me: swapnilgaikwad782001@gmail.com | [LinkedIn](https://linkedin.com/in/swapnilgaikawad)
 
 
 ## 🌐 Socials:
